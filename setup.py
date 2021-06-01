@@ -14,7 +14,7 @@ setup(name='openstacklb',
                         'python-novaclient==11.1.0',
                         'attrs==18.2.0',
                         'enum==0.4.7',
-                        'urllib3==1.24',
+                        'urllib3==1.26.5',
                         'click==7.0',
                         'python-novaclient==11.1.0'],
 
